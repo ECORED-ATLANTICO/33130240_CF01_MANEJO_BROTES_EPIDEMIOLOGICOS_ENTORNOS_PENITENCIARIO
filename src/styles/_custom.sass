@@ -130,7 +130,7 @@ figcaption
     .crd_hover_txt--body
       transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
       transform: translateY(0)
-      background-color: #FFF56A
+      background-color: #F1ECE6
       // opacity: 0.8
       h4
         color: $color-sistema-texto
@@ -141,7 +141,7 @@ figcaption
     bottom: 0
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
     transform: translateY(calc( 100% - 3.85rem ))
-    background-color: #FFF56A
+    background-color: #F1ECE6
     &.bg-color-2
       background-color: #DEF1CB
     // text-align: center
@@ -545,6 +545,7 @@ figcaption
   background-color: #F1ECE6 !important
   white-space: normal
   height: stretch
+
 .tabs-a.color-acento-botones .tabs-a__tab__selected
   background-color: #FFCA00 !important
   color: #12263F !important
@@ -685,13 +686,13 @@ figcaption
 
 /////////////ACORDION/////////////
 .acordion__accion__btn--a
-  background-color: #FF7027 !important
+  background-color: #FFCA00 !important
 
 .acordion__activo
   // background-image: url("../assets/curso/tema2/img19.png") !important
   background-size: cover
   background-position: center
-  background-color: #F9F5FF !important
+  background-color: #EDF6F2 !important
   &.azul
     background-color: #DFF5FB !important
 
@@ -874,7 +875,7 @@ a, button, div
   background-color: #D9F6FD !important
 
 .bg-color-07
-  color: #9DDF71
+  color: #50747D
 
 .bg-color-08
   background-color: #E8F5D5
@@ -893,10 +894,16 @@ a, button, div
   color: $color-sistema-texto
 
 .bg-color-14
-  background-color: #FEFAF1
+  background-color: #D3E9F1
 
 .bg-color-15
-  background-color: #FFF7ED
+  background-color: #F5FCFE
+
+.bg-color-16
+  background-color: #E8F4F7
+
+.bg-color-17
+  background-color: #F9F7F5
 
 .br-color-05
   border: 2px solid #5071A8 !important
@@ -1007,6 +1014,23 @@ a, button, div
   background-color: #FFCA00 !important
 
 .tabs-a.color-acento-botones .tabs-a__tab:hover
+  background-color: #FFCA00 !important
+  color: $color-sistema-texto !important
+
+.tabs-a.color-2 .tabs-a__tab
+  background-color: #A2EAFC !important
+
+.tabs-a.color-2 .tabs-a__tab__selected
+  background-color: #FFCA00 !important
+  color: $color-sistema-texto !important
+
+.tabs-a.color-2 .tabs-a__tab__selected:before
+  background-color: #FFCA00 !important
+
+.tabs-a.color-2 .tabs-a__tab__selected:hover
+  background-color: #FFCA00 !important
+
+.tabs-a.color-2 .tabs-a__tab:hover
   background-color: #FFCA00 !important
   color: $color-sistema-texto !important
 
@@ -1153,7 +1177,7 @@ a, button, div
   background-color: #557260 !important
   border: 1px solid #557260 !important
 .acordion__accion__btn--a i, .acordion__accion__btn--b i
-  color: #FFF
+  // color: #FFF
 
 .lista-ul
   li
@@ -1614,6 +1638,3 @@ a, button, div
 .pasos-a.color-primario .pasos-a__linea .hor-line
   border-top-color: #62724A !important
   border-radius: 0px
-
-.barra-avance__boton--regresar span
-  color: #fff !important
