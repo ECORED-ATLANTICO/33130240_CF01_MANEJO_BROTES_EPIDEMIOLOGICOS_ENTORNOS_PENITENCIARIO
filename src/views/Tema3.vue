@@ -13,7 +13,7 @@
       img(src="@/assets/curso/tema3/img01.png", alt="")
       .row.justify-content-center.align-items-center.z-2.mb-4
         .col-lg-10(data-aos="fade-right")
-          p.banner-text La atención de situaciones que pueden afectar la salud colectiva en los establecimientos penitenciarios requiere una actuación organizada, oportuna y articulada entre los diferentes actores responsables. 
+          p.banner-text.bg-color-09 La atención de situaciones que pueden afectar la salud colectiva en los establecimientos penitenciarios requiere una actuación organizada, oportuna y articulada entre los diferentes actores responsables. 
 
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-10
@@ -87,7 +87,7 @@
       img(src="@/assets/curso/tema3/img03.png", alt="")
       .row.justify-content-center.align-items-center.z-2.mb-4
         .col-lg-10(data-aos="fade-right")
-          p.banner-text La aplicación de algoritmos de diagnóstico constituye una herramienta fundamental para la identificación temprana de enfermedades transmisibles en la población privada de la libertad (PPL), debido a las condiciones epidemiológicas propias de los establecimientos penitenciarios, donde el hacinamiento, la convivencia en espacios cerrados, la limitada ventilación y las condiciones sanitarias favorecen la transmisión de agentes infecciosos.
+          p.banner-text.bg-color-09 La aplicación de algoritmos de diagnóstico constituye una herramienta fundamental para la identificación temprana de enfermedades transmisibles en la población privada de la libertad (PPL), debido a las condiciones epidemiológicas propias de los establecimientos penitenciarios, donde el hacinamiento, la convivencia en espacios cerrados, la limitada ventilación y las condiciones sanitarias favorecen la transmisión de agentes infecciosos.
 
       .row.mb-4.mb-lg-5.justify-content-center.align-items-center
         .col-lg-4.col-md-8.mb-4.mb-lg-0.order-1.order-lg-2
@@ -163,7 +163,7 @@
       .row.justify-content-center.align-items-center.z-2.mb-5
         .col-lg-12.col-xl-8
           .titulo-sexto.color-acento-contenido.mb-4
-            h5 Figura 4.
+            h5.text-bold Figura 4.
             span Notificación de eventos de interés en salud publica en entornos penitenciarios
           img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema3/img09.png", alt="La figura presenta de manera secuencial el proceso de actuación ante la identificación de una situación que puede afectar la salud pública en un establecimiento penitenciario. Muestra cómo, a partir de la detección inicial, se recopila y comunica información para orientar la toma de decisiones. Asimismo, presenta la aplicación simultánea de medidas de respuesta y seguimiento, diferenciando las actuaciones según el comportamiento del evento, con el propósito de facilitar una intervención oportuna y reducir el riesgo de transmisión. ")
           img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema3/img10.png", alt="La figura presenta de manera secuencial el proceso de actuación ante la identificación de una situación que puede afectar la salud pública en un establecimiento penitenciario. Muestra cómo, a partir de la detección inicial, se recopila y comunica información para orientar la toma de decisiones. Asimismo, presenta la aplicación simultánea de medidas de respuesta y seguimiento, diferenciando las actuaciones según el comportamiento del evento, con el propósito de facilitar una intervención oportuna y reducir el riesgo de transmisión. ")

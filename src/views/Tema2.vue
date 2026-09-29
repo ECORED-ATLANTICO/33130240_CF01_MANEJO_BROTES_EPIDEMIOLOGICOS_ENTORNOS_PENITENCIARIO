@@ -309,7 +309,7 @@
       .row.justify-content-center.align-items-center.z-2.mb-3
         .col-lg-12.col-xl-8
           .titulo-sexto.color-acento-contenido.mb-4
-            h5 Figura 3.
+            h5.text-bold Figura 3.
             span Proceso de vigilancia, análisis y respuesta ante eventos de interés en salud pública
           img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema2/img16.png", alt="La figura representa el proceso que orienta la identificación y respuesta frente a situaciones que pueden afectar la salud pública. Muestra una secuencia que parte de la vigilancia y el análisis de la información para determinar el comportamiento de los casos y definir las acciones correspondientes. Según los resultados obtenidos, el proceso continúa con el seguimiento o con una respuesta epidemiológica más específica, encaminada a investigar la situación y establecer medidas oportunas de prevención y control.")
           img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema2/img17.png", alt="La figura representa el proceso que orienta la identificación y respuesta frente a situaciones que pueden afectar la salud pública. Muestra una secuencia que parte de la vigilancia y el análisis de la información para determinar el comportamiento de los casos y definir las acciones correspondientes. Según los resultados obtenidos, el proceso continúa con el seguimiento o con una respuesta epidemiológica más específica, encaminada a investigar la situación y establecer medidas oportunas de prevención y control.")

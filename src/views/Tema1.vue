@@ -101,6 +101,10 @@
         .bg-color-04.p-4.br-15.mb-0
           p.mb-0(data-aos="fade-right") En los establecimientos penitenciarios, las unidades de atención en salud cumplen un papel fundamental en la detección de casos, la recolección de información y la notificación de eventos, mientras que las autoridades sanitarias participan en los procesos de investigación y respuesta de acuerdo con sus competencias (Ministerio de Salud y Protección Social [MSPS], s. f.).
 
+ 
+    .bg-color-02.br-15.mb-4
+      p.mb-0.p-3.text-center El manejo de un brote requiere una respuesta organizada y oportuna. Esta puede incluir: 
+
     .bg-full-width.bg-fondo-1
       .row.mb-5.justify-content-center.align-items-center
         .col-lg-4.col-md-8.mb-4.mb-lg-0.order-1.order-lg-2
@@ -313,7 +317,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12
           .container
-            .row.align-items-center.bg-color-04.p-3.mb-0.br-15
+            .row.align-items-center.bg-color-17.p-3.mb-0.br-15
               .col-lg-auto.order-2
                 img.d-none.d-lg-flex(src="@/assets/curso/tema1/img26.png", style="max-width: 90px").mx-auto
               .col-lg.order-1
@@ -471,12 +475,12 @@
             img.titulo-con-imagen__imagen(src="@/assets/curso/icono-subtitulo.png")
             h3.titulo-con-imagen__texto Historia natural de la enfermedad aplicada a los brotes epidemiológicos
 
-      p.mb-4 El conocimiento de la historia natural de la enfermedad permite comprender cómo una enfermedad puede pasar de una situación de riesgo a la aparición de casos y, posteriormente, convertirse en un evento que requiere intervención colectiva. Este conocimiento facilita la identificación de los momentos críticos en los cuales se deben implementar acciones para prevenir la aparición de nuevos casos y controlar la transmisión (Leavell & Clark, 1965).
+      p.mb-5 El conocimiento de la historia natural de la enfermedad permite comprender cómo una enfermedad puede pasar de una situación de riesgo a la aparición de casos y, posteriormente, convertirse en un evento que requiere intervención colectiva. Este conocimiento facilita la identificación de los momentos críticos en los cuales se deben implementar acciones para prevenir la aparición de nuevos casos y controlar la transmisión (Leavell & Clark, 1965).
 
-      .row.justify-content-center.align-items-center.z-2.mb-3
+      .row.justify-content-center.align-items-center.z-2.mb-4
         .col-lg-12.col-xl-8
           .titulo-sexto.color-acento-contenido.mb-4
-            h5 Figura 1.
+            h5.text-bold Figura 1.
             span Fases de una enfermedad 
           img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img38.png", alt="La figura representa, de manera secuencial, cómo puede desarrollarse y gestionarse una enfermedad.  Parte de las condiciones que favorecen su aparición hacia la detección de personas afectadas, la confirmación del evento y el análisis de su propagación. Finalmente, muestra la aplicación de acciones para proteger a la población, contener posibles contagios y realizar seguimiento a los resultados obtenidos hasta lograr el control de la situación.")
           img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img39.png", alt="La figura representa, de manera secuencial, cómo puede desarrollarse y gestionarse una enfermedad.  Parte de las condiciones que favorecen su aparición hacia la detección de personas afectadas, la confirmación del evento y el análisis de su propagación. Finalmente, muestra la aplicación de acciones para proteger a la población, contener posibles contagios y realizar seguimiento a los resultados obtenidos hasta lograr el control de la situación.")
@@ -559,7 +563,7 @@
       .row.justify-content-center.align-items-center.z-2.mb-3
         .col-lg-12.col-xl-8
           .titulo-sexto.color-acento-contenido.mb-4
-            h5 Figura 2.
+            h5.text-bold Figura 2.
             span Cadena de infección 
           img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img44.png", alt="La figura representa el recorrido que sigue un agente infeccioso para propagarse entre las personas. Muestra cómo se origina y permanece en un medio determinado, encuentra una forma de salir, desplazarse e ingresar a otro organismo. El ciclo se completa cuando alcanza a una persona vulnerable, permitiendo que la infección continúe. Comprender esta secuencia facilita reconocer los puntos donde pueden aplicarse medidas de prevención y control para interrumpir la transmisión, especialmente en espacios de convivencia colectiva como los establecimientos penitenciarios. ")
           img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img45.png", alt="La figura representa el recorrido que sigue un agente infeccioso para propagarse entre las personas. Muestra cómo se origina y permanece en un medio determinado, encuentra una forma de salir, desplazarse e ingresar a otro organismo. El ciclo se completa cuando alcanza a una persona vulnerable, permitiendo que la infección continúe. Comprender esta secuencia facilita reconocer los puntos donde pueden aplicarse medidas de prevención y control para interrumpir la transmisión, especialmente en espacios de convivencia colectiva como los establecimientos penitenciarios. ")
