@@ -304,7 +304,7 @@
                 h5(data-aos="fade-left").mb-3 Lo invitamos a escuchar el siguiente Pódcast:
 
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-lg-5.mb-2(
-                  texto="“Charlas que venden” Episodio: Definir algunos principios básicos"
+                  texto="Entornos que influyen: factores de riesgo y transmisión de enfermedades en establecimientos penitenciarios"
                   tiempo
                   :audio="require_src('../assets/curso/podcast/podcast1.mp3')"
                 )

@@ -169,7 +169,7 @@
     separador
     
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 Diferencias entre el concepto brote, epidemia y evento de interés en salud pública (EISP)
+      h2 2.2 Diferencias entre los conceptos de brote, epidemia y evento de interés en salud pública (EISP)
 
 
     .bloque-texto-g.bg-color-04.p-3.p-sm-4.p-md-5.mb-5

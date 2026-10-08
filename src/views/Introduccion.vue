@@ -25,7 +25,7 @@
         .col-lg-auto.order-2
           img.d-none.d-lg-flex(src="@/assets/curso/intro/img02.png", style="max-width: 90px").mx-auto
         .col-lg.order-1
-          p.mb-0 De esta manera, se busca proporcionar herramientas conceptuales y procedimentales que permitan responder de manera oportuna y efectiva ante situaciones epidemiológicas, contribuyendo a la prevención, mitigación y control de brotes en los Establecimientos de Reclusión del Orden Nacional (ERON), de acuerdo con la normatividad, lineamientos y protocolos vigentes
+          p.mb-0 De esta manera, se busca proporcionar herramientas conceptuales y procedimentales que permitan responder de manera oportuna y efectiva ante situaciones epidemiológicas, contribuyendo a la prevención, mitigación y control de brotes en los Establecimientos de Reclusión del Orden Nacional (ERON), de acuerdo con la normatividad, lineamientos y protocolos vigentes.
 
 
 </template>

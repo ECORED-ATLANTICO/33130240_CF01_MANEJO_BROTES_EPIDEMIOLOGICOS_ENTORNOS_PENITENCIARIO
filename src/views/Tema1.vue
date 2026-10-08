@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Normatividad y conceptos básicos en epidemiologia 
+      h1 Normativa y conceptos básicos en epidemiología
 
     img(src="@/assets/curso/tema1/img01.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-4
@@ -271,7 +271,7 @@
               h5(data-aos="fade-left").mb-3 Lo invitamos a escuchar el siguiente Pódcast:
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-lg-5.mb-2(
-                texto="33130240  _CF01_Podcast_1"
+                texto="Cuando un caso enciende la alerta: actuar a tiempo frente a los brotes en prisión"
                 tiempo
                 :audio="require_src('../assets/curso/podcast/podcast1.mp3')"
               )
@@ -332,14 +332,14 @@
         .col-lg-7.order-2.order-lg-1.mb-0.mb-lg-0
           p.mb-3 La Unidad de Servicios Penitenciarios y Carcelarios (USPEC) es otro actor esencial dentro del sistema. Su función está orientada a gestionar y operar el suministro de bienes y la prestación de servicios, la infraestructura y el apoyo logístico y administrativo necesario para el adecuado funcionamiento de los servicios penitenciarios y carcelarios a cargo del INPEC. 
           .bg-color-04.p-4.br-15.mb-0
-            p.mb-0(data-aos="fade-right") Esta articulación permite que las funciones de custodia, atención y resocialización se desarrollen con el soporte de las condiciones físicas, administrativas y logísticas requeridas para el funcionamiento de los establecimientos (MSPS, s. f.)
+            p.mb-0(data-aos="fade-right") Esta articulación permite que las funciones de custodia, atención y resocialización se desarrollen con el soporte de las condiciones físicas, administrativas y logísticas requeridas para el funcionamiento de los establecimientos (MSPS, s. f.).
 
       .row.mb-5.mb-lg-5.justify-content-center.align-items-center
         .col-lg-5.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
           figure
             img(src="@/assets/curso/tema1/img28.png")
         .col-lg-7.order-2.order-lg-2.mb-0.mb-lg-0
-          p.mb-3 Desde la perspectiva de la salud pública, el funcionamiento del sistema penitenciario requiere una articulación permanente entre el INPEC, la USPEC, los prestadores de servicios de salud, las entidades territoriales de salud y las autoridades sanitarias nacionales. Esta coordinación resulta especialmente importante cuando se presentan eventos de interés en salud pública o brotes epidemiológicos. En estos casos, el sistema debe contar con mecanismos de vigilancia que permitan detectar tempranamente los riesgos, notificar los eventos y coordinar las acciones necesarias para prevenir la propagación de enfermedades dentro y fuera de los establecimientos de reclusión (MSPS, s. f.)
+          p.mb-3 Desde la perspectiva de la salud pública, el funcionamiento del sistema penitenciario requiere una articulación permanente entre el INPEC, la USPEC, los prestadores de servicios de salud, las entidades territoriales de salud y las autoridades sanitarias nacionales. Esta coordinación resulta especialmente importante cuando se presentan eventos de interés en salud pública o brotes epidemiológicos. En estos casos, el sistema debe contar con mecanismos de vigilancia que permitan detectar tempranamente los riesgos, notificar los eventos y coordinar las acciones necesarias para prevenir la propagación de enfermedades dentro y fuera de los establecimientos de reclusión (MSPS, s. f.).
           .bg-color-09.p-4.br-15.mb-0
             p.mb-0(data-aos="fade-right") La población privada de la libertad constituye un grupo que requiere especial atención en materia de salud pública. Los establecimientos penitenciarios son instituciones cerradas en las que las personas permanecen en convivencia permanente, lo que puede incrementar el riesgo de transmisión de enfermedades.
 
@@ -537,7 +537,7 @@
 
             .tarjeta.p-3
               h4 Hongos
-              p.mb-0 Los hongos son organismos eucariotas que poseen material genético organizado en un núcleo y presentan una estructura celular característica. Se clasifican, entre otros, en mohos o hongos filamentosos y levaduras. Algunos hongos pueden formar parte de la microbiota humano, mientras que otros pueden producir infecciones cuando existen condiciones favorables para su desarrollo o cuando las defensas del organismo se encuentran comprometidas (Mosquera Agualimpia, 2025).
+              p.mb-0 Los hongos son organismos eucariotas que poseen material genético organizado en un núcleo y presentan una estructura celular característica. Se clasifican, entre otros, en mohos o hongos filamentosos y levaduras. Algunos hongos pueden formar parte del microbiota humano, mientras que otros pueden producir infecciones cuando existen condiciones favorables para su desarrollo o cuando las defensas del organismo se encuentran comprometidas (Mosquera Agualimpia, 2025).
 
             .tarjeta.p-3
               h4 Parásitos
