@@ -24,7 +24,7 @@
     separador
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1 Normatividad en manejo de brotes epidemiológicas y medidas de salud en entornos penitenciarios
+      h2 1.1 Normatividad en el manejo de brotes epidemiológicos y medidas de salud en entornos penitenciarios
 
     .bg-full-width.bg-fondo-1
       .row.mb-5.mb-lg-5.justify-content-center.align-items-center
@@ -268,7 +268,7 @@
               figure.mb-0
                 img(src="@/assets/curso/tema1/img23.png", data-aos="zoom-in").w-md-50.mx-auto
             .col-lg-8.order-1.order-lg-2.py-4
-              h5(data-aos="fade-left").mb-3 Lo invitamos a escuchar el siguiente Pódcast:
+              h5(data-aos="fade-left").mb-3 A continuación, lo invitamos a consultar el siguiente pódcast:
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-lg-5.mb-2(
                 texto="Cuando un caso enciende la alerta: actuar a tiempo frente a los brotes en prisión"
@@ -280,7 +280,7 @@
     separador
     
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.2 Como funciona el sistema penitenciario y carcelario
+      h2 1.2 Cómo funciona el sistema penitenciario y carcelario
 
 
     img(src="@/assets/curso/tema1/img24.png", alt="")
@@ -355,7 +355,7 @@
     separador
     
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.3 Que es salud y sus determinantes
+      h2 1.3 Qué es salud y sus determinantes
 
 
     .bloque-texto-g.bg-color-04.p-3.p-sm-4.p-md-5.mb-5
@@ -529,7 +529,7 @@
           SlyderA(tipo="b").bg-color-white.p-4.tarjeta
             .tarjeta.p-3
               h4 Bacterias
-              p.mb-0 Son microorganismos unicelulares que presentan tamaños microscópicos y diferentes formas. Algunas bacterias pueden vivir de manera libre en el ambiente, mientras que otras pueden establecer relaciones con seres humanos y animales. Algunas especies forman parte del microbiota normal del organismo y otras pueden comportarse como agentes causales de enfermedades cuando encuentran condiciones favorables para su multiplicación o cuando ingresan a sitios del organismo donde pueden producir daño (Mosquera Agualimpia, 2025).
+              p.mb-0 Son microorganismos unicelulares que presentan tamaños microscópicos y diferentes formas. Algunas bacterias pueden vivir de manera libre en el ambiente, mientras que otras pueden establecer relaciones con seres humanos y animales. Algunas especies forman parte de la microbiota normal del organismo y otras pueden comportarse como agentes causales de enfermedades cuando encuentran condiciones favorables para su multiplicación o cuando ingresan a sitios del organismo donde pueden producir daño (Mosquera Agualimpia, 2025).
 
             .tarjeta.p-3
               h4 Virus
@@ -537,7 +537,7 @@
 
             .tarjeta.p-3
               h4 Hongos
-              p.mb-0 Los hongos son organismos eucariotas que poseen material genético organizado en un núcleo y presentan una estructura celular característica. Se clasifican, entre otros, en mohos o hongos filamentosos y levaduras. Algunos hongos pueden formar parte del microbiota humano, mientras que otros pueden producir infecciones cuando existen condiciones favorables para su desarrollo o cuando las defensas del organismo se encuentran comprometidas (Mosquera Agualimpia, 2025).
+              p.mb-0 Los hongos son organismos eucariotas que poseen material genético organizado en un núcleo y presentan una estructura celular característica. Se clasifican, entre otros, en mohos o hongos filamentosos y levaduras. Algunos hongos pueden formar parte de la microbiota humana, mientras que otros pueden producir infecciones cuando existen condiciones favorables para su desarrollo o cuando las defensas del organismo se encuentran comprometidas (Mosquera Agualimpia, 2025).
 
             .tarjeta.p-3
               h4 Parásitos

@@ -29,17 +29,17 @@ export default {
           {
             numero: '1.1',
             titulo:
-              'Normatividad en manejo de brotes epidemiológicas y medidas de salud en entornos penitenciarios',
+              'Normatividad en el manejo de brotes epidemiológicos y medidas de salud en entornos penitenciarios',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Como funciona el sistema penitenciario y carcelario',
+            titulo: 'Cómo funciona el sistema penitenciario y carcelario',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Que es salud y sus determinantes',
+            titulo: 'Qué es salud y sus determinantes',
             hash: 't_1_3',
           },
           {
@@ -63,7 +63,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Concepto e importancia de la epidemiologia',
+            titulo: 'Concepto e importancia de la epidemiología',
             hash: 't_2_1',
           },
           {
@@ -195,11 +195,11 @@ export default {
   referencias: [
     {
       referencia:
-        'Bernal, C. (s. f.). <em>Fundamentos de epidemiología: Eje 1. Conceptualicemos</em> [Referente de pensamiento].',
+        'Bernal, C. (s. f.). Fundamentos de epidemiología: Eje 1. Conceptualicemos [Referente de pensamiento].',
     },
     {
       referencia:
-        'Conceptos básicos de epidemiología. (s. f.). <em>Conceptos básicos de epidemiología</em> [Capítulo de libro].',
+        'Conceptos básicos de epidemiología. (s. f.). Conceptos básicos de epidemiología [Capítulo de libro].',
     },
     {
       referencia:
@@ -207,23 +207,23 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). <em>Guía de vigilancia y control de salud pública para población privada de la libertad</em>.',
+        'Ministerio de Salud y Protección Social. (s. f.). Guía de vigilancia y control de salud pública para población privada de la libertad.',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). <em>Lineamientos generales para la vigilancia y control de eventos de interés en salud pública en establecimientos penitenciarios y carcelarios – Colombia 2012</em>.',
+        'Ministerio de Salud y Protección Social. (s. f.). Lineamientos generales para la vigilancia y control de eventos de interés en salud pública en establecimientos penitenciarios y carcelarios – Colombia 2012.',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). <em>Manejo de brotes en población privada de la libertad (PPL)</em> [Documento técnico]. Documento adjunto.',
+        'Ministerio de Salud y Protección Social. (s. f.). Manejo de brotes en población privada de la libertad (PPL) [Documento técnico]. Documento adjunto.',
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2024). <em>Lineamiento para el fortalecimiento de las acciones de prevención de enfermedades transmisibles generadoras de brotes en población privada de la libertad</em>. Ministerio de Salud y Protección Social.',
+        'Ministerio de Salud y Protección Social. (2024). Lineamiento para el fortalecimiento de las acciones de prevención de enfermedades transmisibles generadoras de brotes en población privada de la libertad. Ministerio de Salud y Protección Social.',
     },
     {
       referencia:
-        'Mosquera Agualimpia, C. J. (2025). <em>Microorganismos y cadena de transmisión</em> [Presentación de PowerPoint]. SENA.',
+        'Mosquera Agualimpia, C. J. (2025). Microorganismos y cadena de transmisión [Presentación de PowerPoint]. SENA.',
     },
     {
       referencia:
@@ -231,7 +231,7 @@ export default {
     },
     {
       referencia:
-        'Patiño, C. P., & Mosquera, C. J. (2025). <em>Proceso salud-enfermedad</em> [Presentación de PowerPoint].',
+        'Patiño, C. P., & Mosquera, C. J. (2025). Proceso salud-enfermedad [Presentación de PowerPoint].',
     },
   ],
   creditos: [

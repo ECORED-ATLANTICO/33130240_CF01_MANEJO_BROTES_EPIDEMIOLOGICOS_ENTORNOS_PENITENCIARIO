@@ -29,7 +29,7 @@
       separador
       
       #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-        h2 2.1 Concepto e importancia de la epidemiologia
+        h2 2.1 Concepto e importancia de la epidemiología
 
       .row.mb-5.mb-lg-4.justify-content-center.align-items-center
         .col-lg-5.col-md-12.mb-4.mb-lg-0.order-1.order-lg-1
@@ -162,7 +162,7 @@
         p.mb-2 En conclusión, la epidemiología permite comprender la distribución de los eventos relacionados con la salud y los factores que determinan su ocurrencia en poblaciones específicas. 
 
         .bg-color-15.p-4.br-15.mb-0
-          p.mb-0(data-aos="fade-right") Su importancia en los entornos penitenciarios, facilita la detección temprana de riesgos, la caracterización de los casos, la identificación de factores asociados, la toma de decisiones y la implementación de medidas de prevención y control orientadas a interrumpir la transmisión y proteger la salud de la población privada de la libertad (Bernal, s. f.; MSPS, s. f.).
+          p.mb-0(data-aos="fade-right") Su importancia en los entornos penitenciarios facilita la detección temprana de riesgos, la caracterización de los casos, la identificación de factores asociados, la toma de decisiones y la implementación de medidas de prevención y control orientadas a interrumpir la transmisión y proteger la salud de la población privada de la libertad (Bernal, s. f.; MSPS, s. f.).
 
 
 

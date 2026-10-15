@@ -123,7 +123,7 @@
           figure
             img(src="@/assets/curso/tema3/img06.png")
         .col-lg-7.order-2.order-lg-1.mb-0.mb-lg-0
-          p.mb-3 El lineamiento nacional señala que este proceso debe complementarse con el examen médico de ingreso al establecimiento, la identificación de factores de riesgo individuales y ambientales, así como la vigilancia permanente de la población para detectar oportunamente casos sospechosos antes de que evolucionen a brotes. La estandarización del proceso diagnóstico garantiza que las decisiones clínicas sean oportunas, homogéneas y basadas en evidencia (MSPS, 2024) 
+          p.mb-3 El lineamiento nacional señala que este proceso debe complementarse con el examen médico de ingreso al establecimiento, la identificación de factores de riesgo individuales y ambientales, así como la vigilancia permanente de la población para detectar oportunamente casos sospechosos antes de que evolucionen a brotes. La estandarización del proceso diagnóstico garantiza que las decisiones clínicas sean oportunas, homogéneas y basadas en evidencia (MSPS, 2024). 
 
           .bg-color-04.p-4.br-15.mb-0
             p.mb-0(data-aos="fade-right") Finalmente, la aplicación sistemática de algoritmos de diagnóstico fortalece la vigilancia epidemiológica y mejora la toma de decisiones clínicas y sanitarias, permitiendo detectar precozmente los eventos de interés, reducir la transmisión de enfermedades y orientar la implementación de acciones preventivas y correctivas basadas en evidencia. 
@@ -164,7 +164,7 @@
         .col-lg-12.col-xl-8
           .titulo-sexto.color-acento-contenido.mb-4
             h5.text-bold Figura 4.
-            span Notificación de eventos de interés en salud publica en entornos penitenciarios
+            span Notificación de eventos de interés en salud pública en entornos penitenciarios
           img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema3/img09.png", alt="La figura presenta de manera secuencial el proceso de actuación ante la identificación de una situación que puede afectar la salud pública en un establecimiento penitenciario. Muestra cómo, a partir de la detección inicial, se recopila y comunica información para orientar la toma de decisiones. Asimismo, presenta la aplicación simultánea de medidas de respuesta y seguimiento, diferenciando las actuaciones según el comportamiento del evento, con el propósito de facilitar una intervención oportuna y reducir el riesgo de transmisión. ")
           img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema3/img10.png", alt="La figura presenta de manera secuencial el proceso de actuación ante la identificación de una situación que puede afectar la salud pública en un establecimiento penitenciario. Muestra cómo, a partir de la detección inicial, se recopila y comunica información para orientar la toma de decisiones. Asimismo, presenta la aplicación simultánea de medidas de respuesta y seguimiento, diferenciando las actuaciones según el comportamiento del evento, con el propósito de facilitar una intervención oportuna y reducir el riesgo de transmisión. ")
       
@@ -202,7 +202,7 @@
               .col-auto
                 img(src='@/assets/curso/tema3/img13.svg', style="max-width: 60px").mx-auto
               .col
-                p.mb-0 El fortalecimiento de la higiene de manos
+                p.mb-0 El fortalecimiento de la higiene de manos.
 
         .col-lg-4.col-md-6.mb-4.mb-lg-4
           .bg-color-12.p-4.br-15.h-100.align-content-center
@@ -210,7 +210,7 @@
               .col-auto
                 img(src='@/assets/curso/tema3/img14.svg', style="max-width: 60px").mx-auto
               .col
-                p.mb-0 El uso adecuado de elementos de protección personal
+                p.mb-0 El uso adecuado de elementos de protección personal.
 
         .col-lg-4.col-md-6.mb-4.mb-lg-4
           .bg-color-12.p-4.br-15.h-100.align-content-center
@@ -218,7 +218,7 @@
               .col-auto
                 img(src='@/assets/curso/tema3/img15.svg', style="max-width: 60px").mx-auto
               .col
-                p.mb-0 La promoción de hábitos saludables, la vacunación
+                p.mb-0 La promoción de hábitos saludables, la vacunación.
 
         .col-lg-4.col-md-6.mb-4.mb-lg-4
           .bg-color-12.p-4.br-15.h-100.align-content-center
@@ -226,7 +226,7 @@
               .col-auto
                 img(src='@/assets/curso/tema3/img16.svg', style="max-width: 60px").mx-auto
               .col
-                p.mb-0 La búsqueda activa de casos
+                p.mb-0 La búsqueda activa de casos.
 
         .col-lg-4.col-md-6.mb-4.mb-lg-4
           .bg-color-12.p-4.br-15.h-100.align-content-center
@@ -234,7 +234,7 @@
               .col-auto
                 img(src='@/assets/curso/tema3/img17.svg', style="max-width: 60px").mx-auto
               .col
-                p.mb-0 El aislamiento oportuno de personas con sospecha de enfermedad transmisible
+                p.mb-0 El aislamiento oportuno de personas con sospecha de enfermedad transmisible.
 
         .col-lg-4.col-md-6.mb-4.mb-lg-4
           .bg-color-12.p-4.br-15.h-100.align-content-center
@@ -301,7 +301,7 @@
                 figure.mb-0
                   img(src="@/assets/curso/tema1/img23.png", data-aos="zoom-in").w-md-50.mx-auto
               .col-lg-8.order-1.order-lg-2.py-4
-                h5(data-aos="fade-left").mb-3 Lo invitamos a escuchar el siguiente Pódcast:
+                h5(data-aos="fade-left").mb-3 A continuación, lo invitamos a consultar el siguiente pódcast:
 
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-lg-5.mb-2(
                   texto="Entornos que influyen: factores de riesgo y transmisión de enfermedades en establecimientos penitenciarios"
