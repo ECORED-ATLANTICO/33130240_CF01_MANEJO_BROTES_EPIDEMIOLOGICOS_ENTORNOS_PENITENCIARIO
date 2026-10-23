@@ -306,7 +306,7 @@
                 TarjetaAudio.color-acento-contenido.bg-color-white.mb-lg-5.mb-2(
                   texto="Entornos que influyen: factores de riesgo y transmisión de enfermedades en establecimientos penitenciarios"
                   tiempo
-                  :audio="require_src('../assets/curso/podcast/podcast1.mp3')"
+                  :audio="require_src('../assets/curso/podcast/podcast2.mp3')"
                 )
 
 </template>
