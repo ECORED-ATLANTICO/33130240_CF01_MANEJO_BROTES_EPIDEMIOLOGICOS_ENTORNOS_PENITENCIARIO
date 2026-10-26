@@ -160,6 +160,9 @@
               .col-lg.order-1
                 p.mb-0 La notificación debe realizarse inmediatamente cuando se identifique un evento de notificación obligatoria o una situación que represente un riesgo de propagación, permitiendo activar la investigación epidemiológica, implementar medidas de control y coordinar la respuesta entre las instituciones de salud, el INPEC, la USPEC y las autoridades sanitarias territoriales. La oportunidad en la notificación es determinante para interrumpir la cadena de transmisión y reducir la ocurrencia de brotes (Ministerio de Salud y Protección Social [MSPS], 2016; MSPS, 2024).
 
+
+      h4.text-bold.mb-4 El proceso de notificación está diseñado de la siguiente manera:
+
       .row.justify-content-center.align-items-center.z-2.mb-5
         .col-lg-12.col-xl-8
           .titulo-sexto.color-acento-contenido.mb-4
