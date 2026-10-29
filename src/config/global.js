@@ -212,14 +212,17 @@ export default {
     {
       referencia:
         'Ministerio de Salud y Protección Social. (s. f.). Lineamientos generales para la vigilancia y control de eventos de interés en salud pública en establecimientos penitenciarios y carcelarios – Colombia 2012.',
-    },
-    {
-      referencia:
-        'Ministerio de Salud y Protección Social. (s. f.). Manejo de brotes en población privada de la libertad (PPL) [Documento técnico]. Documento adjunto.',
+      link: 'https://www.minsalud.gov.co/Documentos%20y%20Publicaciones/Lineamientos%20vigilancia%20y%20control%20de%20eventos%20de%20inter%C3%A9s%20en%20salud%20p%C3%BAblica%20en%20centros%20carcelarios%202012.pdf',
     },
     {
       referencia:
         'Ministerio de Salud y Protección Social. (2024). Lineamiento para el fortalecimiento de las acciones de prevención de enfermedades transmisibles generadoras de brotes en población privada de la libertad. Ministerio de Salud y Protección Social.',
+      link: 'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ET/lineamiento-fortalecimiento-prevencion-enfermedades-brotes-poblacion-privada-libertad.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (s. f.). Manejo de brotes en población privada de la libertad (PPL) [Documento técnico].',
+      link: 'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/VSP/manejo-brotes-ppl.pdf',
     },
     {
       referencia:
